@@ -80,6 +80,10 @@ public class Atm {
 				System.exit(0);
 				break;
 				
+//				invalid case
+				default:
+					System.out.println("please enter the valid case");
+				
 				
 				
 			}
